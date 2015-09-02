@@ -22,6 +22,13 @@ vkApiScopedMethods['newsfeed.get'];
 ```
 
 
+## Related
+
+- [vk-api-all-methods](https://github.com/dsblv/vk-api-all-methods) — List of all VK API methods
+- [vk-api-open-methods](https://github.com/dsblv/vk-api-open-methods) — List of VK API methods that don't require authentication
+- [vk-api-scopes](https://github.com/dsblv/vk-api-scopes) — Hash of VK API access permission codes
+
+
 ## License
 
 MIT © [Dmitriy Sobolev](http://vk.com/sobo13v)
