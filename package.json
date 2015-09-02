@@ -1,0 +1,33 @@
+{
+  "name": "vk-api-scoped-methods",
+  "version": "1.0.0",
+  "description": "Hash of VK API methods that require correct scope and scope they require",
+  "license": "MIT",
+  "repository": "dsblv/vk-api-scoped-methods",
+  "author": {
+    "name": "Dmitriy Sobolev",
+    "email": "disobolev@icloud.com",
+    "url": "vk.com/sobo13v"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "vk",
+    "вконтакте",
+    "api",
+    "scope",
+    "rights",
+    "oauth"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
