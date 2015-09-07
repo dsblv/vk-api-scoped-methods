@@ -1,6 +1,6 @@
 {
   "name": "vk-api-scoped-methods",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hash of VK API methods that require correct scope and scopes they require",
   "license": "MIT",
   "repository": "dsblv/vk-api-scoped-methods",
@@ -16,7 +16,8 @@
     "test": "xo && mocha"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "scoped-methods.json"
   ],
   "keywords": [
     "vk",
